@@ -1,5 +1,5 @@
 # gmailbrute
-Gmail Bruteforce In Python
+Bruteforce Gmail In Python
 
 <h1>Legal disclaimer:</h1>
 <hr>
