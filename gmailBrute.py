@@ -16,7 +16,7 @@ banner()
 
 
 
-creator = "					creator: DevDeclann (2/27/2021)	"
+creator = "					creator: EOE21 (2/27/2021)	"
 version = "					      gmailBrute: v.1.0		"
 print(creator)
 print(version)
