@@ -14,5 +14,5 @@ Usage of gmailBrute for attacking targets without prior mutual consent is illega
 <h1>Usage:</h1>
 <pre><code>git clone https://github.com/DevDeclann/gmailbrute.git
 cd gmailBrute
-python3 gmailBrute.py
+python3 GBrute.py
 </code></pre>
